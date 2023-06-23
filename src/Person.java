@@ -29,6 +29,9 @@ public class Person {
         return contribution;
     }
 
+    public Person() {
+    }
+
     public void setContribution(int contribution) {
         this.contribution = contribution;
     }
