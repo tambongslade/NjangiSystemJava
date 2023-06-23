@@ -19,13 +19,13 @@ public class Main {
         choice=sc.nextInt();
         switch (choice){
             case 1:
-                    ManageMembers();
+                    Njangi.ManageMembers();
                 break;
             case 2:
-                ManageContributions();
+                Njangi.ManageContributions();
                 break;
             case 3:
-                ManageDebts();
+                Njangi.ManageDebts();
                 break;
             default:
                 System.out.println("invalid option");
@@ -34,15 +34,11 @@ public class Main {
 
         }
 
-    private static void ManageDebts() {
-    }
 
-    private static void ManageContributions() {
-    }
 
-    private static void ManageMembers() {
-        
-    }
+
+
+
 
 
 }
