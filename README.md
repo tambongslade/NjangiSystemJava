@@ -1,1 +1,1 @@
-<h1> A JAVA Njangi app <h1>
+<h1> A Console JAVA Njangi app <h1>
